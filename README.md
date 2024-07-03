@@ -1,3 +1,4 @@
+![Banner](https://d34vmoxq6ylzee.cloudfront.net/magefan_blog/DEEPLEARNIG-NEW.jpg)
 <h1 align="center">Hi 👋, I'm Shrikar</h1>
 <h3 align="center">Trying to be an ABSOLUTE JUGGERNAUT in machine learning</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
