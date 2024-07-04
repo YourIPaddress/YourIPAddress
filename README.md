@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact:  **This is my 2nd GITHUB account (hopefully I don't loose this)**
 
-- 📖 Read my blogs! : https://medium.com/@myselfshrikar
+- 📖 Check out my blogs! : https://medium.com/@myselfshrikar
 
 - ✍🏾Most recent blog: https://medium.com/@myselfshrikar/introduction-to-univariate-linear-regression-188fa0c14aab
 
