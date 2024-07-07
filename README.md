@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrikar ramesh" target="blank"><img src="https://img.shields.io/twitter/follow/shrikar ramesh?logo=twitter&style=for-the-badge" alt="shrikar ramesh" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning, NN, DL etc.**
+- 🌱 I’m currently learning **Machine learning, NN, DL, etc.**
 
 - 🎓 I'm currently studying in my 1st year of B.E in **AI&ML**
 
