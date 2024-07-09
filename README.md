@@ -14,7 +14,7 @@
 - ⚒️Completely into **Machine Learning** and no more in any other domains
 
 - 📫 You can shoot a mail at: **myselfshrikar@gmail.com**
-bro lol
+
 - ⚡ Fun fact:  **This is my 2nd GITHUB account (hopefully I don't loose this)**
 
 - 📖 Check out my blogs! : https://medium.com/@myselfshrikar
