@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚒️ Currently learning **Neural Networks and other Advanced algorithms** 
+- ⚒️ Currently learning **Neural Networks and other Advanced Algorithms** 
 
 - 📫 You can shoot a mail @: **myselfshrikar@gmail.com**
 
