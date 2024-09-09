@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning, etc.**
 
-- 🎓 I'm currently studying in my 2nd year of B.E in **AI&ML**
+- 🎓 I'm currently studying in my **2nd** year of B.E in **AI&ML**
 
 - 💬 Ask me about **Python**
 
